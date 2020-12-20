@@ -1,0 +1,12 @@
+Live Attendance System using Face Recognition
+    The project will help for takeing attendance 
+very faster and accurate. 
+The old method for taking attendance is by calling 
+the name or roll number 
+of the student to record attendance. It is
+Time consuming. 
+ Group members:
+Sharvaree Navar
+Anjali Sorte
+Shivani Khot
+Rutuja Patil
